@@ -1,6 +1,6 @@
 # Old Image Colourizer
 
-An OpenCv implementation that can give back life to old balck and white photos. Just feed in any old BW photos and get a dynamically coloured image. 
+An OpenCV implementation that can give back life to old black and white photos. Just feed in any old BW photos and get a dynamically coloured image. 
 
 ## ABOUT ME:
 Hi. I am Murugesh MANTHIRAMOORTHI, a self-taught data-scientist. 
